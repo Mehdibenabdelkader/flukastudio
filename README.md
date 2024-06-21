@@ -1,30 +1,19 @@
-# React + TypeScript + Vite
+# Fluka Studio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Fluka Studio website repository! This project is a React-based web application developed to showcase the services and portfolio of Fluka Studio, a leading boutique studio specializing in brand identity, social media design, and website development.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fluka Studio is dedicated to helping startups and small businesses elevate their brand and enhance their online presence through impactful brand identities, captivating social media designs, and sleek websites. This website serves as a digital portfolio and a point of contact for potential clients.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Home Page: Overview of Fluka Studio's mission and services.
+- Services Page: Detailed descriptions of the services offered.
+- Portfolio Page: Showcase of previous projects and client testimonials.
+- About Page: Information about Fluka Studio and its founder.
+- Contact Page: Contact form for inquiries and communication.
 
-- Configure the top-level `parserOptions` property like this:
+## Contact
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+For any inquiries or feedback, please reach out to us at [fluka.studio@gmail.com](mailto:fluka.studio@gmail.com).
