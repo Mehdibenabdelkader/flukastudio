@@ -3,7 +3,7 @@ import flukastudio from "../assets/flukastudio.svg";
 export const Navbar = () => {
   return (
     <div>
-      <nav className="bg-gray-100 p-4 rounded-md">
+      <nav className="border-purple bg-white border-2 p-4 rounded-md">
         <div className="container mx-auto flex items-center justify-between ">
           <div className="flex-shrink-0">
             <a href="#" className="">
@@ -29,7 +29,7 @@ export const Navbar = () => {
           <div className="flex-shrink-0">
             <a
               href="#"
-              className="bg-orange text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-orangeDark"
+              className="bg-purple text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-orange"
             >
               Get in touch
             </a>
