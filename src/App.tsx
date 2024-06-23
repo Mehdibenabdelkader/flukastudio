@@ -1,13 +1,15 @@
 import "./App.css";
 import { Navbar } from "./components/Navbar";
-import { Home } from "./components/Home";
+import { Hero } from "./components/Hero";
+import { SocialMedia } from "./components/SocialMedia";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <Home></Home>
-      <Home></Home>
+      <SocialMedia />
+      <Hero></Hero>
+      <Hero></Hero>
     </div>
   );
 }

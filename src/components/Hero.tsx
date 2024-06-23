@@ -20,18 +20,6 @@ export const Home = () => {
           WE HAVE IT ALL!
         </button>
       </div>
-
-      <div className="flex flex-col items-center justify-center shrink-0 bg-slate-400">
-        <button className="px-4 py-2">
-          <img src={x} alt="" />
-        </button>
-        <button className="px-4 py-2">
-          <img src={linkedin} alt="" />
-        </button>
-        <button className="px-4 py-2">
-          <img src={insta} alt="" />
-        </button>
-      </div>
     </div>
   );
 };
