@@ -5,7 +5,7 @@ import x from "../assets/x.svg";
 
 export const Home = () => {
   return (
-    <div className="flex gap-4 h-5/6 ">
+    <div className="flex gap-4 pt-[12rem] -mt-[5.25rem] h-5/6">
       <div className="flex fit flex-col w-full justify-evenly bg-slate-400 ">
         <div className="flex-1 my-16 ">
           <img src={slogan} alt="" />
