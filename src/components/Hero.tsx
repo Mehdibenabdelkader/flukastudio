@@ -1,9 +1,7 @@
 import slogan from "../assets/slogan.svg";
-import insta from "../assets/insta.svg";
-import linkedin from "../assets/linkedin.svg";
-import x from "../assets/x.svg";
 
-export const Home = () => {
+
+export const Hero = () => {
   return (
     <div className="flex gap-4 pt-[12rem] -mt-[5.25rem] h-5/6">
       <div className="flex fit flex-col w-full justify-evenly bg-slate-400 ">
