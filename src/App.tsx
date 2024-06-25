@@ -10,7 +10,6 @@ function App() {
       <Navbar />
       <SocialMedia />
       <Hero></Hero>
-      <Hero></Hero>
       <Services></Services>
     </div>
   );
