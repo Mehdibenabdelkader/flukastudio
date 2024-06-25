@@ -3,7 +3,7 @@ import flukastudio from "../assets/flukastudio.svg";
 export const Navbar = () => {
   return (
     <div>
-      <nav className="fixed top-8 p-4 right-42 rounded-md w-5/6 z-50 left-1/2 -translate-x-1/2 border-2 lg:backdrop-blur-sm">
+      <nav className="fixed top-8 p-4 rounded-md w-5/6 z-50 left-1/2 -translate-x-1/2 border-2 lg:backdrop-blur-sm">
         <div className="container mx-auto flex items-center justify-between ">
           <div className="flex-shrink-0">
             <a href="#" className="">
