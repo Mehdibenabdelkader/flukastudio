@@ -15,7 +15,7 @@ export const Hero = () => {
         </div>
 
         <button className="px-4 py-2 bg-purple text-white rounded w-60 my-8 ">
-          WE HAVE IT ALL! test
+          WE HAVE IT ALL!
         
         </button>
       </div>
