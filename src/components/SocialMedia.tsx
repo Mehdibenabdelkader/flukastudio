@@ -4,15 +4,15 @@ import insta from "../assets/insta.svg";
 
 export const SocialMedia = () => {
   return (
-    <div className="fixed bottom-12 flex flex-col justify-center right-12 items-center">
+    <div className="hidden fixed bottom-12 md:flex flex-col justify-center right-12 items-center ">
       <button className="py-2 w-6">
-        <img src={x} alt="" />
+        <img src={x} alt="X" />
       </button>
       <button className="py-2 w-8">
-        <img src={linkedin} alt="" />
+        <img src={linkedin} alt="LinkedIn" />
       </button>
       <button className="py-2 w-6">
-        <img src={insta} alt="" />
+        <img src={insta} alt="Instagram" />
       </button>
     </div>
   );
