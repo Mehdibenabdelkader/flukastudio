@@ -4,6 +4,10 @@
   padding-bottom: 12px;
   text-align: center;
   font-family: 'Poppins', sans-serif;
+
+}
+body {
+  background-image: url('./assets/noise.svg');
 }
 
 .logo {
