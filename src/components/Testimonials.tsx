@@ -24,7 +24,7 @@ export const Testimonials = () => {
             
             <div className="bg-purple w-2 "></div>
             <div className="text-left  flex flex-col">
-                <p className="text-xl">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore ad voluptate molestias nihil illum sunt nemo, eius fuga eaque aspernatur aperiam ex assumenda praesentium animi incidunt voluptates? Alias, laboriosam distinctio? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore ad voluptate molestias nihil illum sunt nemo, eius fuga eaque aspernatur aperiam ex assumenda praesentium animi incidunt voluptates? Alias, laboriosam distinctio?</p>
+                <p className="text-xl ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore ad voluptate molestias nihil illum sunt nemo, eius fuga eaque aspernatur aperiam ex assumenda praesentium animi incidunt voluptates? Alias, laboriosam distinctio? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore ad voluptate molestias nihil illum sunt nemo, eius fuga eaque aspernatur aperiam ex assumenda praesentium animi incidunt voluptates? Alias, laboriosam distinctio?</p>
                 <p className="text-gray-400  mt-auto"> Mehdi Benabdelakder, CEO @ Fluka Studio</p>
             </div>
             
