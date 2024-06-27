@@ -6,9 +6,12 @@ export default {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'noise': "url('./src/assets/noise-light.png')",
-    },
+
+      fontFamily: {
+        title: ["Poppins", "sans-serif"],
+        normal: ["Roboto Mono", "monospace"],
+      },
+      
       colors: {
         'purple': '#BC73F2',
         'black': '#1A1A1A',
