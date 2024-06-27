@@ -9,6 +9,9 @@
 body {
   background-image: url('./assets/noise.svg');
 }
+html {
+  scroll-behavior: smooth;
+}
 
 .logo {
   height: 6em;

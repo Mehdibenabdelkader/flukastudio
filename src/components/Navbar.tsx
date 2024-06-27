@@ -6,20 +6,30 @@ export const Navbar = () => {
       <nav className="fixed top-8 p-4 rounded-md w-5/6 z-50 left-1/2 -translate-x-1/2 border-2 backdrop-blur-sm">
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex-shrink-0">
-            <a href="#" className="">
+            <a href="#">
               <img src={flukastudio} alt="Fluka studio" />
             </a>
           </div>
 
           <div className="hidden md:flex space-x-4">
             <a
-              href="#"
+              onClick={() => {
+                const element = document.getElementById('Projects');
+                if (element) {
+                  element.scrollIntoView();
+                }
+              }}
               className="text-black hover:bg-purple hover:text-white px-3 py-2 rounded-md text-sm font-medium"
             >
               Projects
             </a>
             <a
-              href="#"
+              onClick={() => {
+                const element = document.getElementById('Services');
+                if (element) {
+                  element.scrollIntoView();
+                }
+              }}
               className="text-black hover:bg-purple hover:text-white px-3 py-2 rounded-md text-sm font-medium"
             >
               Services

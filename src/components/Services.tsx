@@ -2,7 +2,7 @@ import Design from "../assets/Design.svg";
 
 export const Services = () => {
     return (
-      <div className="w-5/6 mx-auto flex flex-col md:flex-row text-left pt-20 gap-2 md:gap-28">
+      <div id="Services" className="w-5/6 mx-auto flex flex-col md:flex-row text-left pt-20 gap-2 md:gap-28">
         <div className="flex flex-col flex-1">
           <h1 className="font-black text-6xl md:text-6xl pb-10 pt-4">Our services</h1>
           <p className="text-base md:text-lg">
