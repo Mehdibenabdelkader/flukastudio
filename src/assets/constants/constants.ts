@@ -14,7 +14,7 @@ export const feedback = [
     {
       id: "feedback-2",
       content:
-        "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "I am thrilled to recommend Fluka Studios for their outstanding work in managing and enhancing our social media presence. Their creative approach, strategic planning, and consistent delivery of high-quality content have significantly boosted our engagement and visibility. Fluka Studios demonstrates a keen understanding of our brand and audience, and their expertise in social media management is evident in the remarkable results we've achieved. They are reliable, innovative, and a pleasure to work with, making them an invaluable partner for any organization looking to strengthen its social media impact.",
       name: "Amine Touzi",
       title: "Founder & Ceo @FOX Gaming Esports",
       img: client2,
@@ -22,9 +22,9 @@ export const feedback = [
     {
       id: "feedback-3",
       content:
-        "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Mehdi was a great person to work with, especially that he had the most needed 2 virtues of a designer: patience and creativity. He has a great ability to manage work under pressure. We are really happy to count him among us as a pillar member of our community who marked forever our visual identity",
       name: "Hambam",
-      title: "Founder & Leader",
+      title: "President @ Moroccan Mathematical Community ",
       img: client3,
     },
   ];
