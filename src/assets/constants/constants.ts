@@ -2,6 +2,9 @@ import  client1 from "../clients/client1.png";
 import  client2 from "../clients/client2.png";
 import  client3 from "../clients/client3.png";
 import  maktooba from "../projects/maktooba.png";
+import fizzodle from "../projects/Fizzodle.jpg"
+import fox from "../projects/FOX.jpg"
+import ataysec from "../projects/ataysec.jpg"
 
 export const feedback = [
     {
@@ -39,20 +42,20 @@ export const projects = [
     },
     {
       id: "project-2",
-      title: "FOX Gaming",
-      img: maktooba,
-      link: "https://www.behance.net/mehdiben5",
+      title: "Fizzodle",
+      img: fizzodle,
+      link: "https://www.behance.net/gallery/192165135/Fizzoodle-Clothing-Brand",
     },
     {
       id: "project-3",
-      title: "Moroccan Mathematical Community",
-      img: maktooba,
+      title: "Fox Gaming",
+      img: fox,
       link: "https://www.behance.net/mehdiben5",
     },
     {
       id: "project-4",
-      title: "Fluka Studio",
-      img: maktooba,
+      title: "Ataysec",
+      img: ataysec,
       link: "https://www.behance.net/mehdiben5",
     },
     
