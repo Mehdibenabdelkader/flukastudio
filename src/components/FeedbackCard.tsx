@@ -16,7 +16,7 @@ export const FeedbackCard = ({ content, name, title, img }: FeedbackCardProps) =
             <p className="text-base">
                 {content}
             </p>
-            <p className="text-gray-400 mt-auto">{name + ', ' +  title}</p>
+            <p className="text-gray-400 mt-auto pt-4">{name + ', ' +  title}</p>
         </div>
     </div>
 );
