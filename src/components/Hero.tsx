@@ -1,5 +1,6 @@
 import slogan from "../assets/slogan.svg";
 import icon from "../assets/icon.svg";
+import { links } from "../assets/constants/constants";
 
 
 export const Hero = () => {
@@ -14,9 +15,9 @@ export const Hero = () => {
           <p className="text-lg"> Social Media Design ? </p>
           <p className="text-lg"> Website Building ? </p>
         </div>
-        <button className="self-start px-4 py-2 bg-purple text-white rounded w-60 my-8">
-          WE HAVE IT ALL!
-        </button>
+        <div className="self-start bg-purple text-white rounded  my-20">
+          <a className="self-start px-20 py-2 bg-purple text-white rounded w-60 my-8" href={links[1].url}>WE HAVE IT ALL!</a>
+        </div>
       </div>
       <div className="hidden md:flex justify-center md:justify-end w-full md:w-auto"> 
         <img src={icon} alt="Icon" className="w-5/6 md:w-auto"/>

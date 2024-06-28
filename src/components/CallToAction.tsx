@@ -1,3 +1,5 @@
+import { links } from "../assets/constants/constants";
+
 export const CallToAction = () => {
     return (
       <div className="bg-purple py-16">
@@ -6,7 +8,7 @@ export const CallToAction = () => {
             Your message deserves a proper representation
           </h1>
           <a
-            href="#"
+            href={links[2].url}
             className="text-white text-lg md:text-xl mb-4 underline hover:no-underline"
           >
             Let’s Figure out your potential

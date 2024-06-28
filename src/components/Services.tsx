@@ -1,4 +1,5 @@
 import Design from "../assets/Design.svg";
+import { links } from "../assets/constants/constants";
 
 export const Services = () => {
     return (
@@ -8,9 +9,9 @@ export const Services = () => {
           <p className="text-base md:text-lg">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore ratione aliquid assumenda magni adipisci corporis repellendus maiores atque. Culpa, voluptatum! Id hic soluta, quas magni vel impedit ut necessitatibus debitis.
           </p>
-          <button className="self-start px-4 py-2 bg-purple text-white rounded w-60 mt-12">
-            Book a free Meeting
-          </button>
+          <div className="self-start bg-purple text-white rounded  my-20">
+            <a className="self-start px-20 py-2 bg-purple text-white rounded w-60 my-8" href={links[1].url}>Book a free meeting!</a>
+          </div>
         </div>
         <div className="flex-1 flex flex-col mt-5 md:mt-0">
           <div className="py-4 flex">

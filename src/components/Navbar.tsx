@@ -1,4 +1,5 @@
 import flukastudio from "../assets/flukastudio.svg";
+import { links } from "../assets/constants/constants";
 
 export const Navbar = () => {
   return (
@@ -38,7 +39,7 @@ export const Navbar = () => {
 
           <div className="flex-shrink-0">
             <a
-              href="#"
+              href={links[2].url}
               className="bg-purple text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-orange"
             >
               Get in touch

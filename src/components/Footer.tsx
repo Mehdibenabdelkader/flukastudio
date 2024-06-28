@@ -6,7 +6,9 @@ export const Footer = () => {
       <div className="w-5/6 mx-auto flex mb-10 mt-20">
         <div className="flex flex-col flex-1 text-left gap-4">
           <div className="mb-8">
-            <img src={flukastudio} alt="Fluka Studio" className="w-44" />
+            <a href="#">
+              <img src={flukastudio} alt="Fluka studio" className="w-44"/>
+            </a>
           </div>
           
           <p>Fluka Studio is a leading studio for the creation of the best brand identity, social media posts, and website for your business/brand.</p>
