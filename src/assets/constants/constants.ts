@@ -1,6 +1,7 @@
 import  client1 from "../clients/client1.png";
 import  client2 from "../clients/client2.png";
 import  client3 from "../clients/client3.png";
+import  maktooba from "../projects/maktooba.png";
 
 export const feedback = [
     {
@@ -33,24 +34,29 @@ export const projects = [
     {
       id: "project-1",
       title: "Maktooba",
-      img: "",
-      description:
-        "Maktooba is a platform that connects Moroccan writers with publishers and readers. It offers a wide range of services to help writers publish their work and reach a wider audience. The platform also provides a space for readers to discover new writers and engage with their work. Maktooba aims to promote Moroccan literature and support local writers in their creative endeavors.",
+      img: maktooba,
+      link: "https://www.behance.net/mehdiben5",
     },
     {
       id: "project-2",
-      title: "FOX Gaming Esports",
-      img: "",
-      description:
-        "FOX Gaming Esports is a leading esports organization in Morocco. It hosts competitive gaming events, tournaments, and leagues for players of all skill levels. The organization also provides coaching, training, and support for aspiring esports professionals. FOX Gaming Esports aims to promote esports in Morocco and create a thriving community of gamers.",
+      title: "FOX Gaming",
+      img: maktooba,
+      link: "https://www.behance.net/mehdiben5",
     },
     {
       id: "project-3",
       title: "Moroccan Mathematical Community",
-      img: "",
-      description:
-        "The Moroccan Mathematical Community is a non-profit organization that promotes mathematics education and research in Morocco. It organizes workshops, conferences, and competitions to support students, teachers, and researchers in the field of mathematics. The organization also offers scholarships, grants, and awards to recognize and reward outstanding achievements in mathematics.",
+      img: maktooba,
+      link: "https://www.behance.net/mehdiben5",
     },
+    {
+      id: "project-4",
+      title: "Fluka Studio",
+      img: maktooba,
+      link: "https://www.behance.net/mehdiben5",
+    },
+    
+    
   ];
 
 export const services = [
