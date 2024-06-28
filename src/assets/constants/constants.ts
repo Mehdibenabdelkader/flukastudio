@@ -11,8 +11,8 @@ export const feedback = [
       id: "feedback-1",
       content:
         "I am writing to highly recommend Mehdi's work for any design projects you may be considering. Over the course of several projects, Mehdi (fluka studio) has consistently demonstrated exceptional skill, creativity, and professionalism. What sets him apart is not just the quality of the work, but also the process. Mehdi takes the time to listen carefully to my ideas and requirements, ensuring that every detail is understood and incorporated. This attentiveness makes collaboration effortless and results in designs that truly reflect my vision.",
-      name: "Mehdi Benabdelkader",
-      title: "CEO & FOUNDER @Fluka Studio",
+      name: "Bochra Labiad",
+      title: "Owner @Fizzoodle",
       img: client1,
     },
     {
@@ -27,7 +27,7 @@ export const feedback = [
       id: "feedback-3",
       content:
         "Mehdi was a great person to work with, especially that he had the most needed 2 virtues of a designer: patience and creativity. He has a great ability to manage work under pressure. We are really happy to count him among us as a pillar member of our community who marked forever our visual identity, as well as our hearts <3",
-      name: "Hambam",
+      name: "Hamza Bamohammed",
       title: "President @ Moroccan Mathematical Community ",
       img: client3,
     },
@@ -38,7 +38,7 @@ export const projects = [
       id: "project-1",
       title: "Maktooba",
       img: maktooba,
-      link: "https://www.behance.net/mehdiben5",
+      link: "https://www.behance.net/gallery/202049689/Maktooba-Logo-Design",
     },
     {
       id: "project-2",
@@ -50,7 +50,7 @@ export const projects = [
       id: "project-3",
       title: "Fox Gaming",
       img: fox,
-      link: "https://www.behance.net/mehdiben5",
+      link: "https://www.behance.net/gallery/195658393/Fox-Gaming-Esports-Social-Media-Branding",
     },
     {
       id: "project-4",
